@@ -1,2 +1,6 @@
-# robot-study-notes
-personal learning repository for robotics ROS and UVA
+安装过程：
+用VirtualBox新建模拟机，安装Ubuntu20.04，然后跟着教程敲代码安装ROS Noetic，然后开3个新的终端，去运行小乌龟，控制键盘让小乌龟动起来
+遇到的问题和解决办法：
+1.安装Ubuntu的时候窗口太小了，底部的按钮看不见也放不大，就用 Tab键和enter键来回切换
+2.装ROS的时候密钥报错，连接超时，改用国内镜像源
+3.操控小乌龟的时候，按方向键位小乌龟不动，要先点一下运行键盘控制的终端窗口，选中了才能控制。电脑录屏的时候，鼠标点不进去虚拟机里面，所以改用手机录制
